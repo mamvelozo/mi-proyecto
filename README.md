@@ -4,7 +4,16 @@ Este cambio viene DESDE la rama desarrollo.
 
 
 
-Línea agregada desde MAIN para provocar conflicto.
+HEAD
+Cambios integrados:
+- Línea agregada desde MAIN para provocar conflicto.
+- Línea agregada desde DESARROLLO para provocar conflicto.
+
+
+
+
+Línea agregada desde DESARROLLO para provocar conflicto.
+desarrollo
 
 
 
